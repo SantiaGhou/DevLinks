@@ -84,8 +84,6 @@ body {
   
   .light #switch button {
     animation: slide-in 0.2s forwards;
-    right:0;
-    left: initial;
   }
   
   #switch button:hover {
@@ -185,3 +183,19 @@ footer a:hover {
         padding: 18px 24px;
     }
 }
+/* animation */
+@keyframes slide-in {
+    from {
+      left: 0;
+    }
+    to {
+      left: 50%;
+    } }
+
+    @keyframes slide-back {
+    from {
+      left: 50%;
+    }
+    to {
+      left: 0;
+    } }
