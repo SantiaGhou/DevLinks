@@ -1,9 +1,7 @@
 # DevLinks
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">
-  Projeto desenvolvido como parte do curso <strong>Discovery</strong> da Rocketseat, marcando meu retorno ao mundo da programação web. O foco está nos fundamentos e na criação de aplicações modernas com as melhores práticas.
-</p>
+
 
 <p align="center">
   Um programa exclusivo e gratuito promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
